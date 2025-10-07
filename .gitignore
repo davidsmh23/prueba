@@ -6,6 +6,7 @@ ENV/
 env_pruebas/
 env*/ 
 *.env
+git_env/
 
 # Archivos de configuración locales
 *.local
